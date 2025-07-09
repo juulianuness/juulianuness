@@ -4,7 +4,7 @@
 
 👩🏽‍🦱Olá me chamo Julia Nunes, Sou natural do Rio de Janeiro. <br>
 🎓Sou formada em Marketing e pós graduada em Comunicação. <br>
-🌱Atualmente estou migrando para a área de tecnologia. <br>
+🌱Migrando para a área de tecnologia. <br>
 
 
 
