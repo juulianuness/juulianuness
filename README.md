@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FrontEnd`**
 
-👩🏽‍🦱Olá me chamo Julia Nunes, Sou natural do Rio de Janeiro. <br>
+👩🏽‍🦱Olá me chamo Julia Nunes, Sou natural do Rio de Janeiro e morando em SC. <br>
 🎓Sou formada em Marketing e pós graduada em Comunicação. <br>
 🌱Migrando para a área de tecnologia. <br>
 
