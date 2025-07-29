@@ -1,13 +1,10 @@
-#  Julia Nunes
+# Julia Nunes
 
 **`Desenvolvedora FrontEnd`**
 
-👩🏽‍🦱Olá me chamo Julia Nunes, Sou natural do Rio de Janeiro e morando em SC. <br>
-🎓Sou formada em Marketing e pós graduada em Comunicação. <br>
-🌱Migrando para a área de tecnologia. <br>
-
-
-
+👩🏽‍🦱 Olá! Me chamo Julia Nunes. Sou natural do Rio de Janeiro e moro em SC.  
+🎓 Formada em Marketing e pós-graduada em Comunicação.  
+🌱 Migrando para a área de tecnologia.  
 
 ---
 
@@ -37,7 +34,6 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Python" 
@@ -48,42 +44,38 @@
 />
 <img 
     align="left" 
-    alt="typescript" 
-    title="typescript"
+    alt="TypeScript" 
+    title="TypeScript"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
 />
-    <img 
+<img 
     align="left" 
-    alt="typescript" 
-    title="typescript"
+    alt="React" 
+    title="React"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
-    <img 
+<img 
     align="left" 
-    alt="typescript" 
-    title="typescript"
+    alt="Node.js" 
+    title="Node.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
- 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
+/>
 
-<br/>
-<br/>
+<br/><br/><br/>
+
+---
 
 ### 📊 Estatísticas
 
-
-
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="250" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=juulianuness&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+    align="left" 
+    alt="GitHub Stats" 
+    height="250" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=juulianuness&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
+/>
