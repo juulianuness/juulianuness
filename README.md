@@ -64,7 +64,16 @@
     title="Node.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 
 <br/><br/><br/>
@@ -76,6 +85,7 @@
 <img 
     align="left" 
     alt="GitHub Stats" 
-    height="250" 
+    height="200"
+    width="400"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=juulianuness&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
