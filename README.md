@@ -2,8 +2,8 @@
 
 **`Desenvolvedora FrontEnd`**
 
-Sou Julia Nunes, desenvolvedora Front-End em transição de carreira, com background em Marketing e Comunicação. Aqui no meu GitHub, você vai encontrar os projetos que venho desenvolvendo durante meus estudos, desafios e experiências práticas com HTML, CSS, JavaScript, React e outras tecnologias.
-Criei este espaço para compartilhar minha jornada na tecnologia de forma transparente e mostrar minha evolução com código. Fique à vontade para explorar os repositórios, acompanhar meu progresso ou até trocar uma ideia! 🚀
+Sou Julia Nunes, desenvolvedora Full stack. Aqui no meu GitHub, você vai encontrar os projetos que venho desenvolvendo durante meus estudos, desafios e experiências práticas com HTML, CSS, JavaScript, React e outras tecnologias.
+Criei este espaço para compartilhar minha jornada na tecnologia de forma transparente e mostrar minha evolução com código. Fique à vontade para explorar os repositórios, acompanhar meu progresso.
 
 ---
 
