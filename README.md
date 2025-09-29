@@ -36,6 +36,15 @@ Criei este espaço para compartilhar minha jornada na tecnologia de forma transp
 
 <img 
     align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
+/>
+
+<img 
+    align="left" 
     alt="TypeScript" 
     title="TypeScript"
     width="30px" 
@@ -66,6 +75,15 @@ Criei este espaço para compartilhar minha jornada na tecnologia de forma transp
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"
 />
 
 <br/>
