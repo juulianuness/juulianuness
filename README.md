@@ -2,8 +2,9 @@
 
 **`Desenvolvedora FrontEnd`**
 
-Sou Julia Nunes, desenvolvedora Full stack. Aqui no meu GitHub, você vai encontrar os projetos que venho desenvolvendo durante meus estudos, desafios e experiências práticas com HTML, CSS, JavaScript, React e outras tecnologias.
-Criei este espaço para compartilhar minha jornada na tecnologia de forma transparente e mostrar minha evolução com código. Fique à vontade para explorar os repositórios, acompanhar meu progresso.
+Sou Julia Nunes, estudante de Análise e Desenvolvimento de Sistemas, formada pelo Bootcamp Full Stack React & Node da SoulCode Academy, onde participei de projetos práticos que uniram frontend e backend, aplicando conceitos de React, Node.js, JavaScript, HTML, CSS, Tailwind e Git.
+Ampliei meus conhecimentos com cursos voltados à Qualidade de Software (QA), aprendendo sobre testes manuais e automatizados, boas práticas de versionamento e metodologias ágeis.
+Essa combinação entre desenvolvimento e garantia de qualidade me permite compreender o ciclo completo das aplicações, do código à entrega, com foco em usabilidade, desempenho e confiabilidade.
 
 ---
 
