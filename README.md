@@ -1,6 +1,6 @@
 # Julia Nunes
 
-**`Desenvolvedora FrontEnd`**
+**`Desenvolvedora Full Stack`**
 
 Sou Julia Nunes, estudante de Análise e Desenvolvimento de Sistemas, formada pelo Bootcamp Full Stack React & Node da SoulCode Academy, onde participei de projetos práticos que uniram frontend e backend, aplicando conceitos de React, Node.js, JavaScript, HTML, CSS, Tailwind e Git.
 Ampliei meus conhecimentos com cursos voltados à Qualidade de Software (QA), aprendendo sobre testes manuais e automatizados, boas práticas de versionamento e metodologias ágeis.
