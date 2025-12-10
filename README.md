@@ -91,6 +91,8 @@ Essa combinação entre desenvolvimento e garantia de qualidade me permite compr
 
 ---
 
+
+<!-- 
 ### 📊 Estatísticas
 
 <img 
@@ -99,4 +101,4 @@ Essa combinação entre desenvolvimento e garantia de qualidade me permite compr
     height="200"
     width="400"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=juulianuness&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
+/> -->
